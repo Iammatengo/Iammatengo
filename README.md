@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buddy! Welcome To My Small World 👋
 
 <!--
 **Iammatengo/Iammatengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+Davis Obonyo Matengo is my name, and I'm from Nairobi, Kenya. I'm a self-taught frontend web developer who's working on acquiring the abilities one by one. I've already dabbled in HTML and CSS, and I'm now dabbling in JavaScript. One day, I hope to establish my own start-up company that provides solutions to the world's problems.
+
+Random Fact: I enjoy searching the internet for new and interesting things to learn; no knowledge is ever wasted. That's how I ended up at Tech, and now the adventure begins.
+
+[My Lifeholic Social Media](https://twitter.com/IamMatengo)
