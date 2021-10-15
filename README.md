@@ -1,5 +1,7 @@
 ### Buddy! Welcome To My Small World 👋
 
+- 🌱 I’m currently learning HTML CSS JavaScript ,Python and Django
+
 <!--
 **Iammatengo/Iammatengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
